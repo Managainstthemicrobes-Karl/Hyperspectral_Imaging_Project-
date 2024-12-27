@@ -1,0 +1,12 @@
+# Ignore build files
+*.exe
+*.obj
+*.pdb
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore system files
+*.tmp
+*.log
